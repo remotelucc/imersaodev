@@ -61,7 +61,7 @@ let artistas = [
     },
     {
         titulo: "Plínio Marcos",
-        descricao: "Dramaturgo e ator brasileiro, conhecido por suas peças que denunciavam a violência e a marginalidade, como 'Navalha na Carne'."
+        descricao: "Dramaturgo e ator brasileiro, conhecido por suas peças que denunciavam a violência e a marginalidade, como 'Navalha na Carne'.",
         link: "https://pt.wikipedia.org/wiki/Plínio_Marcos"
     },
     {
